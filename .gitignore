@@ -1,0 +1,12 @@
+# === NEXTJS ===
+frontend/.next
+frontend/node_modules
+
+# === BACKEND ===
+backend/__pycache__
+backend/*.db
+
+# === GLOBAL ===
+node_modules
+.DS_Store
+.env
